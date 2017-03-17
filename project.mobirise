@@ -1107,7 +1107,7 @@
           },
           "title": "Saar Cools<br>",
           "text": "",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/ENG/\" data-toolbar=\"-mbrBtnMove\">DUTCH</a>"
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://saarcools.github.io/NED/\" data-toolbar=\"-mbrBtnMove\">DUTCH</a>"
         },
         {
           "_tags": [
@@ -1293,7 +1293,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><br><strong><br></strong>website: <a href=\"http://http://www.lucaschilderkunstgent.be/\">http://www.lucaschilderkunstgent.be/</a><br>\nEmail: saar.cools@hotmail.com",
+          "text1": "<strong>Address:</strong><br>Workplace<br>Alexianenplein 1<br>9000 Gent<br><br><br>\n<strong>Contact</strong><a href=\"http://http://www.lucaschilderkunstgent.be/\"><br></a>website: <a href=\"http://www.lucaschilderkunstgent.be/\" target=\"_blank\">http://www.lucaschilderkunstgent.be/</a><br>Email: saar.cools@hotmail.com",
           "text2": "",
           "form": {
             "title": "MESSAGE",
