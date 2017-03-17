@@ -1090,7 +1090,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc0461aca2-2000x199912.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc0461aca3.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1389,8 +1389,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x115813.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-115.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0258aca2-1-800x115812.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0258aca2-114.jpg",
                 "caption": "A3,papier",
                 "active": false
               },
@@ -1409,8 +1409,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x113414.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc0488aca216.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0488aca2-800x113413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0488aca215.jpg",
                 "caption": "A4,papier",
                 "active": true
               }
@@ -1559,8 +1559,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x60917.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc050319.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0503-800x60916.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc050318.jpg",
                 "caption": "140x110cm, schildersdoek",
                 "active": false
               },
@@ -1569,8 +1569,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x60218.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc050520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x60217.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc050519.jpg",
                 "caption": "70x50cm, schildersdoek",
                 "active": true
               }
