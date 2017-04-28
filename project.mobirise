@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "MAIL.ENG.html",
+    "currentPage": "in progress eng.html",
     "versionFirst": "3.6.4",
     "versionPublish": "3.12.1",
     "name": "siteENG-03-03_0916new",
@@ -229,6 +229,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc046aca2-2000x2068-800x827.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc046aca2-2000x2068.jpg",
                 "caption": "16x16cm, wooden panel",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0624-800x621.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0624.jpg",
+                "caption": "110x140cm, canvas",
                 "active": true
               }
             ],
@@ -810,17 +820,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0505-800x602.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc0505.jpg",
                 "caption": "70x50cm, canvas",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o-800x612.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17916245-1510022682387993-2082754273-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0623-800x619.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc0623.jpg",
                 "caption": "110x140cm, canvas",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "4",
